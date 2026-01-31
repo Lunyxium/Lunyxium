@@ -1,185 +1,113 @@
-<h1 align="center">Lunyxium</h1>
-
-###
+<div align="center">
+  
+# Hey, I'm Matt 👋  
 
 <h6 align="center">Aspiring Developer  |  Bug Creator  |  Project Ideologist  |  Social Homebody  |  Videogame Purist   |  Creative Solver  |  Dog Person</h6>
 
-###
+
+**Career changer. Former chef, now building software.**
+
+I traded kitchen knives for code editors — after years in gastronomy, I made the leap into tech. Currently finishing my Swiss Federal VET Diploma in Application Development, with plans to continue toward a diploma at a Higher Technical College and eventually specialize in AI/ML.
+ 
+ $${\color{blue}I \space would \space rather \space understand \space something \space deeply \space than \space copy-paste \space my \space way \space through.}$$
+</br>
+</div>
+
+
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lunyxium.Lunyxium&left_color=magenta&right_color=darkgrey&left_text=Profile%20views"  />
+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H+
+  
+### 📫 Get In Touch
+
+[![Website](https://img.shields.io/badge/baeumli.dev-coming%20soon-4B1E68?style=flat-square)](https://baeumli.dev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baeumli/)
+  [![Discord](https://img.shields.io/badge/Discord-.lunyx.-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)  
+  
+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H+
 </div>
 
-###
 
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=false&text=About%20me&fontSize=38&fontColor=AEA0D4&fontAlign=50&fontAlignY=26&stroke=202124&strokeWidth=2&desc=Introduction%20%20%E2%80%94%20%20What%20drives%20me?&descSize=15&descAlign=50&descAlignY=60&textBg=false&color=4B1E68"  />
-</div>
+***
 
-###
+## 🎯 What I'm Working On
 
-<h3 align="left">Introduction</h3>
+- 🎓 Completing **Informatiker EFZ Applikationsentwicklung** (July 2026)
+- 🔬 Final project: Final project: Developing an intelligent search tool that finds relevant information through vector embeddings & RAG architecture
+- 📚 Next step: **Dipl. Informatiker/in HF** (2027)
+- 🎮 Side quest: Game modding & indie game concepts
 
-###
+---
 
-<p align="left">My name is Lunyxium - or at least thats the handle I work under on the web. People that know me just call me Matt.<br>Even though having a lifelong love for tech and especially the driver behind it all – coding – I only just joined this frontier for real in 2024.<br>Back then I was still working in my old job and was finally able to make the ... --to be finished--</p>
+## 🛠️ Projects
 
-###
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Lunyxium/pacman_deluxe">🟡 Pac-Man Deluxe</a></h3>
+      <p>Team school project (6 people) focused on Scrum methodology. Built a Pac-Man clone with progressive difficulty, custom ghost AI, and additional mechanics.</p>
+      <p><code>Python</code> <code>Scrum</code> <code>Team Project</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Lunyxium/steptracker">📱 StepTracker</a></h3>
+      <p>React Native mobile app with pedometer functionality, GPS tracking, Firebase authentication, and cloud storage. Built for Module 335.</p>
+      <p><code>React Native</code> <code>Firebase</code> <code>Expo</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 <a href="https://github.com/Lunyxium/HexColorPicker">HexColorPicker</a></h3>
+      <p>Lightweight Windows tool for quick hex color selection. Pick colors with saturation/brightness controls, copy hex codes to clipboard. Built because I was tired of switching to browser for color codes.</p>
+      <p><code>C#</code> <code>Windows</code> <code>Utility</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Lunyxium/Caligulaweb">🌐 Personal Website</a></h3>
+      <p>Portfolio website for baeumli.dev — currently in development. Named after Emperor Caligula because why not.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">What drives me?</h3>
+> 🎮 **Also tinkering with:** Mount and Blade Bannerlord modding (C#/Harmony) — building the "LNX Chains of Calradia" mod series. Currently in private development.
 
-###
+---
 
-<p align="left">To be perfectly honest, my biggest driver is absolutely my curiosity.<br>Anything I can touch that has electricity running through it, immediately has my attention. It has always been that way... --to be finished--</p>
+## 💻 Tech Stack
 
-###
+**Favourites**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
+</p>
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
+**Worked With**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/>
+</p>
 
-###
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
 
-<br clear="both">
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lunyxium&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lunyxium&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 📍 Currently
 
-###
+| | |
+|---|---|
+| 📖 **Reading** | *The Phoenix Project* & *The Mythical Man-Month* |
+| 🧪 **Learning** | RAG pipelines, vector databases, semantic search |
+| 🎮 **Tinkering** | Bannerlord modding (C# / Harmony patches) |
+| 💡 **Exploring** | Unity vs Godot for 2D pixel art game dev |
 
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=false&text=Languages&fontSize=38&fontColor=A0C2D4&fontAlign=50&fontAlignY=26&stroke=202124&strokeWidth=2&desc=Languages%20I%20use%20%20%E2%80%94%20%20Languages%20I'm%20learning%20%20%E2%80%94%20%20Others%20I'm%20interested%20in&descSize=15&descAlign=50&descAlignY=60&textBg=false&color=044568"  />
-</div>
+---
 
-###
-
-<br clear="both">
-
-<h4 align="center">Languages I use</h4>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="58" alt="javascript logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="58" alt="typescript logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="58" alt="csharp logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="58" alt="html5 logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="58" alt="css logo"  />
-</div>
-
-###
-
-<h4 align="center">Programming languages I am still learning</h4>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="46" alt="cplusplus logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="46" alt="java logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="python logo"  />
-</div>
-
-###
-
-<h4 align="center">Other programming languages that interest me</h4>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="46" alt="rust logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="46" alt="go logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="46" alt="kotlin logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=false&text=Tech%20I%20use&fontSize=38&fontColor=A0D4CB&fontAlign=50&fontAlignY=26&stroke=202124&strokeWidth=2&desc=Editors%20and%20IDEs%20%20%E2%80%94%20%20Tech%20used%20regularly%20%20%E2%80%94%20%20Social%20Media&descSize=15&descAlign=50&descAlignY=60&textBg=false&color=04685C"  />
-</div>
-
-###
-
-<h4 align="center">The editors & IDEs I work with</h4>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="52" alt="vscode logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="52" alt="intellij logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" height="52" alt="rider logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="52" alt="webstorm logo"  />
-</div>
-
-###
-
-<h4 align="center">Other tech I use regularly</h4>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="46" alt="datagrip logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="46" alt="docker logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="46" alt="figma logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="46" alt="firebase logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="46" alt="git logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="46" alt="github logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="46" alt="mongodb logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="46" alt="mysql logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="46" alt="unity logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="46" alt="godot logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="46" alt="canva logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h4 align="center">Social Media</h4>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="56" height="34" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="34" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="56" height="34" alt="bluesky logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="56" height="34" alt="discord logo"  />
-</div>
-
-###
+<p align="center">
+  <i>From kitchen chaos to code — still figuring things out, one commit at a time.</i>
+</p>
