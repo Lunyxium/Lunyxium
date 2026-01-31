@@ -32,9 +32,9 @@ I traded kitchen knives for code editors — after years in gastronomy, I made t
 
 ## 🎯 What I'm Working On
 
-- 🎓 Completing **Informatiker EFZ Applikationsentwicklung** (July 2026)
-- 🔬 Final project: Final project: Developing an intelligent search tool that finds relevant information through vector embeddings & RAG architecture
-- 📚 Next step: **Dipl. Informatiker/in HF** (2027)
+- 🎓 Completing **Informatiker EFZ Applikationsentwicklung** (finishing July 2026)
+- 🔬 Final project: Developing an intelligent search tool that finds relevant information through vector embeddings & RAG architecture
+- 📚 Next step: **Dipl. Informatiker/in HF** (start in 2027)
 - 🎮 Side quest: Game modding & indie game concepts
 
 ---
